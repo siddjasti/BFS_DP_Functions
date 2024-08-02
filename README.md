@@ -1,6 +1,6 @@
 # BFS_DP_Functions
 
-This repository contains Python implementations of various classic problems in algorithms, focusing on graph traversal, dynamic programming, and optimization techniques. It's designed to help understand key principles of computer science and algorithm design.
+This repository contains Python implementations of various classic problems in algorithms focusing on graph traversal and dynamic programming. The functions were written as practice for more complex coding questions.
 
 ## Content
 
